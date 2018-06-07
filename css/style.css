@@ -68,11 +68,11 @@ button:hover, .btn:hover {
     color: white;
 }
 #main-header #header-inner #header-mask #header-contest h3{
-    font-size: 4em;
+    font-size: 5vh;
     font-style: italic;
 }
 #main-header #header-inner #header-mask #header-contest h1 {
-    font-size: 6em;
+    font-size: 10vh;
 }
 #services .fas{
     color:#fff;
@@ -232,4 +232,7 @@ figcaption span {
 
 footer {
     line-height: 100px;
+}
+footer p {
+    font-weight: 600;    
 }
